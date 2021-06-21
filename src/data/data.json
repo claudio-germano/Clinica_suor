@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "Joaozinho",
+        "title": "Clínica do Suor",
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
     },
@@ -22,18 +22,18 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Consultas",
+            "text": "A equipe  médica da Clínica do Suor realiza atendimento nos seguintes endereços: UMC Unidade hospitalar. Rua Rafael Marino Neto, 600"
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Tratamento cliníco",
+            "text": "Em todo o mundo, até poucos anos atrás, foram tentados inúmeros tratamentos clínicos para a hiperidrose, mas todos eles eram apenas paliativos e de efeito temporário ou mesmo nulo."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Tratamento Cirúrgico",
+            "text": "Desde 1926 pratica-se a operação para correção de hiperidrose (simpatectomia). Apenas recentemente, com novas técnicas de vídeo-cirurgia, anestésicas e do instrumental cirúrgico, é que se desenvolveu um procedimento efetivo."
         }
     ],
     "Testimonials": [{
