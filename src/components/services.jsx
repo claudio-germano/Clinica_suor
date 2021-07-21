@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Nossos Serviços</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Especialiados em simpatectomia oferecemos um tratamento cirurgico toráxico minimamente invasivo através de vídeo toracoscopia.
           </p>
         </div>
         <div className='row'>

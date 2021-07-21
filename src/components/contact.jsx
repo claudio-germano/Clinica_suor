@@ -82,7 +82,7 @@ export const Contact = (props) => {
                     id='message'
                     className='form-control'
                     rows='4'
-                    placeholder='Messagem'
+                    placeholder='Mensagem'
                     required
                     onChange={handleChange}
                   ></textarea>

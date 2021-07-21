@@ -2,28 +2,29 @@
     "Header": {
 
         "title": "Clínica do Suor",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "paragraph": "Trazendo mais conforto para a sua vida"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Somos a primeira clínica do triângulo mineiro especializada no controle de hiperidrose excessiva. ",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Equipe de cirurgiões toráxicos especializada",
+            "Agendamento rápido",
+            "Fácil recuperação",
+            "Acompanhamento poś cirúrgico"
+
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Alto índice de satisfação",
+            "Clínica de fácil localização",
+            "Atendimento a convênios",
+            "Consultas com agendamento imediato"
         ]
     },
     "Services": [{
             "icon": "fa fa-wordpress",
             "name": "Consultas",
-            "text": "A equipe  médica da Clínica do Suor realiza atendimento nos seguintes endereços: UMC Unidade hospitalar. Rua Rafael Marino Neto, 600"
+            "text": "A equipe  médica da Clínica do Suor realiza atendimento no seguinte endereço: UMC Unidade hospitalar. Rua Rafael Marino Neto, 600. Agendamentos também podem ser feitos através dos nossos contatos pelo WhatsApp ou por email."
         },
         {
             "icon": "fa fa-cart-arrow-down",
@@ -69,22 +70,19 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "name": "Rodrigo Miquelanti",
+            "job": "Cirurgião Toráxico"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Larissa Melo",
+            "job": "Cirurgiã Toráxico"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "UMC Unidade hospitalar. Rua Rafael Marino Neto, 600 ",
+        "phone": "+34 8410-7406",
+        "email": "clinicadosuortm@gmail.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
