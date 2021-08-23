@@ -6,35 +6,32 @@
 
     },
     "About": {
-        "paragraph": "Somos a primeira clínica do triângulo mineiro especializada no controle de hiperidrose excessiva. ",
+        "paragraph": "Somos uma equipe especializada em cirurgia minimamente invasiva com enfâse em Simpatectomia, a cirurgia que reduz o suor de mãos e axilas. O procedimento vídeotoracoscópico já é realizado por nossa equipe desde 2008 e consiste em pequenas incisões e aparelhagem de vídeo moderna.",
         "Why": [
-            "Equipe de cirurgiões toráxicos especializada",
+            "Equipe de cirurgiões torácicos especializada",
             "Agendamento rápido",
             "Fácil recuperação",
             "Acompanhamento poś cirúrgico"
 
         ],
         "Why2": [
-            "Alto índice de satisfação",
-            "Clínica de fácil localização",
-            "Atendimento a convênios",
-            "Consultas com agendamento imediato"
+            
         ]
     },
     "Services": [{
             "icon": "fa fa-wordpress",
             "name": "Consultas",
-            "text": "A equipe  médica da Clínica do Suor realiza atendimento no seguinte endereço: UMC Unidade hospitalar. Rua Rafael Marino Neto, 600. Agendamentos também podem ser feitos através dos nossos contatos pelo WhatsApp ou por email."
+            "text": "Consultas presenciais pré e pós operatórias."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Tratamento cliníco",
-            "text": "Em todo o mundo, até poucos anos atrás, foram tentados inúmeros tratamentos clínicos para a hiperidrose, mas todos eles eram apenas paliativos e de efeito temporário ou mesmo nulo."
+            "name": "-----------------",
+            "text": "-------------------"
         },
         {
             "icon": "fa fa-cloud-download",
             "name": "Tratamento Cirúrgico",
-            "text": "Desde 1926 pratica-se a operação para correção de hiperidrose (simpatectomia). Apenas recentemente, com novas técnicas de vídeo-cirurgia, anestésicas e do instrumental cirúrgico, é que se desenvolveu um procedimento efetivo."
+            "text": "Simpatectomia torácica por vídeo para tratamento de hiperidrose palmar e axilar. Cirurgias para tratemento de hiperidrose compensatória."
         }
     ],
     "Testimonials": [{
